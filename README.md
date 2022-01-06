@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  </p>
  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=Projects&theme=ayu-mirage&text_color=d8dee9)](https://github.com/AntoniosFl/Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=myprojects&theme=ayu-mirage&text_color=d8dee9)](https://github.com/AntoniosFl/my_projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=wth_actors_name&theme=ayu-mirage&text_color=d8dee9)](https://github.com/AntoniosFl/wth_actors_name)
 
 <h3 align="left">🛰️ Technologies:</h3>
