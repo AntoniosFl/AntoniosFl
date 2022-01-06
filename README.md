@@ -1,5 +1,3 @@
-<!-- ![alt text](https://im7.ezgif.com/tmp/ezgif-7-21a7f6afec.gif) -->
-
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 **My name is Antonios Fledos 😊**
 <!--
@@ -25,10 +23,11 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=AntoniosFl&theme=ayu-mirage&hide_border=false&text_color=d8dee9" width = 400>
  </p>
  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=myprojects&theme=ayu-mirage&text_color=d8dee9)](https://github.com/AntoniosFl/my_projects)
+<!-- Repo Cards -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=myprojects&theme=ayu-mirage&text_color=d8dee9)](https://github.com/AntoniosFl/myprojects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=wth_actors_name&theme=ayu-mirage&text_color=d8dee9)](https://github.com/AntoniosFl/wth_actors_name)
 
+<!-- Technologies -->
 <h3 align="left">🛰️ Technologies:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -45,15 +44,18 @@ Here are some ideas to get you started:
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  </p>
 
+<!-- Contacts -->
 <h3 align="left">:mailbox_with_mail: Contacts:</h3>
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniosfledos)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ant.fledos@gmail.com)](mailto:ant.fledos@gmail.com)
+
+<!-- Counter -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniosfl&label=Profile%20views&color=0e75b6&style=flat" alt="antoniosfl" /> </p>
+
+<!-- Contacts Alternative -->
 <!-- <p align="left">
 <a href="https://linkedin.com/in/antoniosfledos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoniosfledos" height="30" width="40" /></a>
 <a href="https://kaggle.com/antonios fl." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="antonios fl." height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/afledos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="afledos" height="30" width="40" /></a>
 </p> -->
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniosfledos)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ant.fledos@gmail.com)](mailto:ant.fledos@gmail.com)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniosfl&label=Profile%20views&color=0e75b6&style=flat" alt="antoniosfl" /> </p>
