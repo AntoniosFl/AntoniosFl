@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api?username=AntoniosFl&show_icons=true&theme=ayu-mirage&hide_border=false&text_color=bcbcbc" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=AntoniosFl&theme=ayu-mirage&hide_border=false&text_color=d8dee9" width = 400>
  </p>
+ 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=Projects&theme=ayu-mirage&text_color=d8dee9)](https://github.com/AntoniosFl/Projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=wth_actors_name&theme=ayu-mirage&text_color=d8dee9)](https://github.com/AntoniosFl/wth_actors_name)
