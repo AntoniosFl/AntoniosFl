@@ -1,7 +1,7 @@
 <!-- ![alt text](https://im7.ezgif.com/tmp/ezgif-7-21a7f6afec.gif) -->
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+**My name is Antonios Fledos 😊**
 <!--
 **AntoniosFl/AntoniosFl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
