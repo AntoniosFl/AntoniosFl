@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 <b>💻 Stats</b>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AntoniosFl&show_icons=true&theme=dracula&hide_border=false" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AntoniosFl&theme=onedark&hide_border=false" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=AntoniosFl&show_icons=true&theme=react&hide_border=false" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AntoniosFl&theme=react&hide_border=false" width = 400>
  </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=github-slideshow&theme=react)](https://github.com/AntoniosFl/github-slideshow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=wth_actors_name&theme=react)](https://github.com/AntoniosFl/wth_actors_name)
 
 <h3 align="left">🛰️ Technologies:</h3>
 <p align="left">
