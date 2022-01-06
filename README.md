@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <b>💻 Stats</b>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AntoniosFl&count_private=true&show_icons=true&theme=ayu-mirage&hide_border=false&text_color=bcbcbc" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=AntoniosFl&show_icons=true&theme=ayu-mirage&hide_border=false&text_color=bcbcbc" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=AntoniosFl&theme=ayu-mirage&hide_border=false&text_color=d8dee9" width = 400>
  </p>
  
