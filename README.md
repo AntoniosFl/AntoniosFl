@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <b>💻 Stats⚡</b>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AntoniosFl&show_icons=true&theme=darcula" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AntoniosFl&theme=kacho_ga&hide_border=false" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=AntoniosFl&show_icons=true&theme=default" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AntoniosFl&theme=flag-india&hide_border=false" width = 400>
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
