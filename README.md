@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  </p>
  
 <!-- Repo Cards -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=my_projects&theme=ayu-mirage&text_color=d8dee9)](https://github.com/AntoniosFl/my_projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=my_projects&theme=ayu-mirage&text_color=d8dee9)](https://github.com/AntoniosFl/my_projects/blob/main/README.md)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoniosFl&repo=wth_actors_name&theme=ayu-mirage&text_color=d8dee9)](https://github.com/AntoniosFl/wth_actors_name)
 
 <!-- Technologies -->
