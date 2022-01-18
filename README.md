@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub stats -->
-<b>💻 Stats</b>
+<b>:bar_chart: Stats</b>
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=AntoniosFl&show_icons=true&theme=ayu-mirage&hide_border=false&text_color=bcbcbc" width = 400>
