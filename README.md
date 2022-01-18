@@ -1,6 +1,11 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 **My name is Antonios Fledos 😊**
 
+I am a Machine Learning 🚀 and Artificial Intelligence 🤖 enthusiast with a passion for coding 💻
+
+I like being part of motivated teams that foster a knowledge sharing environment among them 🤝
+
+
 <!-- **This is my github profile** (it looks much better in Dark dimmed mode :wink:) -->
 <!--
 **AntoniosFl/AntoniosFl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
