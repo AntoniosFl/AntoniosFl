@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <h3 align="left">:mailbox_with_mail: Contacts:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniosfledos)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ant.fledos@gmail.com)](mailto:ant.fledos@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:afledos@hotmail.com)](mailto:afledos@hotmail.com)
 
 <!-- Counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniosfl&label=Profile%20views&color=0e75b6&style=flat" alt="antoniosfl" /> </p>
