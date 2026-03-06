@@ -1,7 +1,9 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 **My name is Antonios Fledos 😊**
 
-I am a Machine Learning 🚀 and Artificial Intelligence 🤖 enthusiast with a passion for coding 💻
+I am a Data Engineer with a consulting background, focused on building reliable, cloud-based data solutions. Experienced across the full data lifecycle: designing ETL/ELT pipelines, modeling data for analytics and AI, and implementing secure, well-governed cloud environments.
+
+Focused on clean architecture, automation, and maintainability, using infrastructure as code, CI/CD, monitoring, and clear documentation to deliver production-grade data systems that create measurable business value.
 
 I like being part of motivated teams that foster a knowledge sharing environment among them 🤝
 
